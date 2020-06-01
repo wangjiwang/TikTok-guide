@@ -4,6 +4,112 @@
     <list default="true" id="31a4b78e-3ace-455e-a09b-80eea9af9deb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/books/java.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/Backtracking-NQueens.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/data-structure/bloom-filter.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/公司真题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/几道常见的子符串算法题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/几道常见的链表算法题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/剑指offer部分编程题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/数据结构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/dataStructures-algorithms/算法学习资源推荐.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/MySQL Index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/MySQL.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/MySQL高性能优化规范建议.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/Redis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/Redis持久化.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/Redlock分布式锁.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis-collection/Redis(1)——5种基本数据结构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis-collection/Redis(10)——Redis数据类型、编码、数据结构的关系.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis-collection/Redis(2)——跳跃表.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis-collection/Redis(3)——分布式锁深入探究.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis-collection/Redis(5)——亿级数据过滤和布隆过滤器.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis-collection/Redis(6)——GeoHash查找附近的人.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis-collection/Redis(7)——持久化.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis-collection/Redis(8)——发布订阅与Stream.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis-collection/Redis(9)——集群入门实践教程.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis-collection/Reids(4)——神奇的HyperLoglog解决统计问题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/redis集群以及应用场景.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/Redis/如何做可靠的分布式锁，Redlock真的可行么.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/一千行MySQL命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/一条sql语句在mysql中如何执行的.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/事务隔离级别(图文详解).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/关于数据库存储时间的一点思考.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/数据库索引.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/数据库连接池.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/database/阿里巴巴开发手册数据库部分的一些最佳实践.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/BATJrealInterviewExperience/2019alipay-pinduoduo-toutiao.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/BATJrealInterviewExperience/2020-zijietiaodong.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/BATJrealInterviewExperience/5面阿里,终获offer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/BATJrealInterviewExperience/bingo-interview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/BATJrealInterviewExperience/蚂蚁金服实习生面经总结(已拿口头offer).md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/JavaInterviewLibrary.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/JavaProgrammerNeedKnow.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/interviewPrepare.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/应届生面试最爱问的几道Java基础问题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/程序员的简历之道.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/美团面试常见问题总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/PreparingForInterview/面试官-你有什么问题要问我.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/real-interview-experience-analysis/alibaba-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/手把手教你用Markdown写一份高质量的简历.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/简历模板.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/essential-content-for-interview/面试必备之乐观锁与悲观锁.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2018-12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-5.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/2019-6.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/github-trending/JavaGithubTrending.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/operating-system/Shell.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/operating-system/basis.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/operating-system/linux.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/operating-system/完全使用GNU_Linux学习.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/questions/java-big-data.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/questions/java-learning-path-and-methods.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/questions/java-learning-website-blog.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/questions/java-training-4-month.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/authority-certification/JWT-advantages-and-disadvantages.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/authority-certification/basis-of-authority-certification.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/authority-certification/sso.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/Kafka入门看这一篇就够了.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/RocketMQ-Questions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/RocketMQ.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/dubbo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/kafka-inverview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/message-queue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/rabbitmq.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/data-communication/why-use-rpc.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/ZooKeeper-plus.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/ZooKeeper.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/ZooKeeper数据模型和常见命令.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/mybatis/mybatis-interview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/Spring-Design-Patterns.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/Spring.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/SpringBean.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/SpringInterviewQuestions.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/SpringMVC-Principle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/spring-annotations.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/framework/spring/spring-transaction.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/micro-service/API网关.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/micro-service/api-gateway-intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/micro-service/limit-request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/micro-service/spring-cloud.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/micro-service/分布式id生成方案总结.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/restful-api.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/website-architecture/8 张图读懂大型网站技术架构.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/website-architecture/关于大型网站系统架构你不得不懂的10个问题.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/website-architecture/分布式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/website-architecture/如何设计一个高可用系统？要考虑哪些地方？.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/system-design/设计模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/Docker-Image.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/Docker.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/Git.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/github/github-star-ranking.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tools/阿里云服务器使用经验.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590989582182</updated>
-      <workItem from="1590989584169" duration="1640000" />
+      <workItem from="1590989584169" duration="2154000" />
     </task>
     <task id="LOCAL-00001" summary="更改封面">
       <created>1590990345883</created>
@@ -70,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590990748618</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更改目录页">
+      <created>1590991231170</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590991231170</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,10 +195,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="更改目录页" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1590990747420">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1590991230338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590990747420" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590991230338" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1590990212229">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -94,13 +207,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="57" key="SettingsEditor/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590990190910" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1590990762832">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1590991241689">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590990762832" />
-    <state x="330" y="132" key="git4idea.merge.GitPullDialog" timestamp="1590990754759">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590991241689" />
+    <state x="321" y="78" width="638" height="524" key="find.popup" timestamp="1590991702295">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590990754759" />
+    <state x="321" y="78" width="638" height="524" key="find.popup/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590991702295" />
+    <state x="330" y="132" key="git4idea.merge.GitPullDialog" timestamp="1590991235774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590991235774" />
   </component>
 </project>
