@@ -5,6 +5,6 @@
 
 <h1 align="center">TikToK 30天大航海</h1>
 
-[开始阅读](#java)
+[开始阅读](#TikTok-guide)
 
 
