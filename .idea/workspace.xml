@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31a4b78e-3ace-455e-a09b-80eea9af9deb" name="Default Changelist" comment="day 1">
-      <change afterPath="$PROJECT_DIR$/docs/30day/day1.md" afterDir="false" />
+    <list default="true" id="31a4b78e-3ace-455e-a09b-80eea9af9deb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_coverpage.md" beforeDir="false" afterPath="$PROJECT_DIR$/_coverpage.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590989582182</updated>
       <workItem from="1590989584169" duration="11088000" />
-      <workItem from="1591092401529" duration="1306000" />
+      <workItem from="1591092401529" duration="1686000" />
     </task>
     <task id="LOCAL-00001" summary="更改封面">
       <created>1590990345883</created>
@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591008556571</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="day 1">
+      <created>1591094044553</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1591094044553</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,17 +190,18 @@
     <MESSAGE value="删除内容" />
     <MESSAGE value="增加内容" />
     <MESSAGE value="科学上网" />
-    <option name="LAST_COMMIT_MESSAGE" value="科学上网" />
+    <MESSAGE value="day 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590992983336">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590992983336" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1591093452978">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1591094041959">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591093452978" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591094041959" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1590990212229">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -202,17 +210,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="57" key="SettingsEditor/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590990190910" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591008568937">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591094054118">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591008568937" />
-    <state x="321" y="78" width="773" height="590" key="find.popup" timestamp="1591000980972">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591094054118" />
+    <state x="321" y="78" width="773" height="590" key="find.popup" timestamp="1591094315759">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="321" y="78" width="773" height="590" key="find.popup/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591000980972" />
-    <state x="330" y="132" key="git4idea.merge.GitPullDialog" timestamp="1591008561987">
+    <state x="321" y="78" width="773" height="590" key="find.popup/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591094315759" />
+    <state x="330" y="132" key="git4idea.merge.GitPullDialog" timestamp="1591094048421">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591008561987" />
+    <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591094048421" />
   </component>
 </project>
