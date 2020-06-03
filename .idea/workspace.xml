@@ -269,10 +269,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590992983336" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1591139465803">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1591177902316">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591139465803" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591177902316" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1590990212229">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -281,17 +281,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="57" key="SettingsEditor/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590990190910" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591139478527">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591177916800">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591139478526" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591177916800" />
     <state x="321" y="78" width="773" height="590" key="find.popup" timestamp="1591095080431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="78" width="773" height="590" key="find.popup/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591095080431" />
-    <state x="330" y="132" key="git4idea.merge.GitPullDialog" timestamp="1591139472874">
+    <state x="330" y="132" key="git4idea.merge.GitPullDialog" timestamp="1591177911470">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591139472874" />
+    <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591177911470" />
   </component>
 </project>
