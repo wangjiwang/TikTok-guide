@@ -34,7 +34,7 @@
 
 
 ### 第4天
-* [10分钟学会注册Apple美区ID](docs/30day/day_4注册美区.md)
+* [10分钟学会注册Apple美区ID](media/pictures/apple/day_4注册美区.md)
 
 ### 第5天
 * [TikTok搬运如何破0播放](docs/30day/day5_搬运破0.md)
