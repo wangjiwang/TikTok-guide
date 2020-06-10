@@ -1,682 +1,849 @@
-u  you 
+## A
 
-ur  your  
+AX = Across 穿过
 
-yr  year 
+AH = At home 在家
 
-thx    thanks  
+A3 = Anytime, anywhere, anyplace 哪里都成
 
-4   for  
+ASL = Age/Sex/Location 年龄/性别/住址
 
-2B or not 2B    To Be Or Not To Be  
+AAR = At any rate 任何价格
 
-4ever        Forever 
+ABT = About 关于
 
-A/S/L        Age/Sex/Location 
+AYW = As you wish 如你所愿
 
-AFAIC        As Far As I'm Concerned 
+AZN = Asian 亚洲人（主要指印度人）
 
-AFAIK        As Far As I Know 
+AKA = Also known as 还叫……
 
-AFK          Away From Keyboard 
+AML = All my love 我所有的爱
 
-AIAMU        And I'm A Monkey's Uncle 
+ATB = All the Best 最好的
 
-AISI         As I See It 
+ATM = At the moment 现在
 
-AKA          Also Known As 
+ACC = Anyone can come 谁都能来
 
-AMBW         All My Best Wishes 
+AYS = Are you serious? 你认真的吗？
 
-ANFAWFOWS       And Now For A Word Word From Our Web Sponsor 
+AYT = Are you there? 你在吗？
 
-AOTS         All Of The Sudden 
+AISI = As I see it 当我看到它的时候
 
-ASAFP        As Soon As "Friggin" Possible 
+AOTS = All of the sudden 突然
 
-ASAP         As Soon As Possible 
+ATST = At the same time 同时
 
-ATST         At The Same Time 
+AYCE = All you can eat 你都可以吃
 
-AWGTHTGTTA      Are We Going To Have To Go Through This Again 
-AWGTHTGTTSA     Are We Going To Have To Go Through This Sh**  
+ABT2 = Meaning‘about to’ 将……
 
-AYSOS        Are You Stupid Or Something 
+ADBB = All done, bye-bye 完了，再见
 
-B4        Before 
+AEAP = As early as possible 越早越好
 
-B4N          Bye For Now 
+AFAP = As far as possible 越远越好
 
-BBFBBM       Body By Fisher, Brains by Mattel 
+AMBW = All my best wishes 我最美好的祝福
 
-BBIAB        Be Back In A Bit 
+AISB = As it should be 它本应这样……
 
-BBIAF        Be Back In A Few 
+AISB = As I said before 像我之前说的
 
-BBL          Be Back Later 
+ALOL = Actually laughing out loud 正在大声笑
 
-BBN          Bye Bye Now 
+AMAP = As much as possible 越多越好
 
-BCNU         Be Seein' You 
+AMOF = As a matter of fact 事实是……
 
-BFD          Big F***ing Deal 
+ASAP = As soon as possible 越早越好
 
-BFN          Bye For Now 
+AQAP = As quick as possible 越快越好
 
-BHOF         Bald Headed Old Fart 
+AYDY = Are you done yet? 你完事了没？
 
-BIF          Basis In Fact 
+AYEC = At your earliest convenience 你最方便的时候
 
-BITD         Back In The Day 
+AYOR = At your own risk 由自己负责
 
-BM        Byte Me 
+AFAIK = As Far As I Know 就我所知
 
-BMOTA        Byte Me On The Ass 
+ADD/ADR = Address 地址
 
-BNF          Big Name Fan 
+AWESO = Awesome 真棒
 
-BOHICA       Bend Over Here It Comes Again 
+ATEOTD = At the end of the day 最后
 
-BR        Bathroom 
+## B
 
-BRB          Be Right Back 
+BM = Byte Me 寓意你能怎么办？
 
-BRT          Be Right There 
+B4 = Before 之前
 
-BS        Big Smile 
+BF = Boyfriend 男朋友
 
-BT        Byte This 
+BG = Background 背景
 
-BTDT         Been There Done That 
+BB = Be back 马上回来
 
-BTSOOM       Beats The Sh** Out Of Me 
+BN = Bad news 坏消息
 
-BTW          By The Way 
+BF = Best friend 最好的朋友
 
-BTWBO        Be There With Bells On 
+B/C = Because 因为
 
-BWDIK        But What Do I Know? 
+B4N = Bye for now 再见
 
-BWO          Black, White or Other 
+B2W = Back to work 回去上班
 
-CIAO         Goodbye (in Italian) 
+BAU = Business as usual 正常营业
 
-CID          Consider It Done 
+BBL = Be back later 一会回来
 
-CIO          Check It Out 
+BBQ = Barbeque 烧烤
 
-CIS          CompuServe Information Service 
+BBS = Be back soon 一会回来
 
-CMF          Count My Fingers 
+BBT = Be back tomorrow 明天回来
 
-Cof$         Church of Scientology 
+BWO = Black, white or other 黑色，白色或其他
 
-CRAFT        Can't Remember a F***ing Thing 
+BTW = By the way 顺便说一句
 
-CRAWS        Can't Remember Anything Worth A Sh** 
+Biz = Business 生意
 
-CSL          Can't Stop Laughing 
+BRB = Be right back = 马上会来
 
-CTC          Choaking The Chicken 
+BRD = Bored 无聊
 
-CUL8R        See You Later 
+BOL = Best of luck 祝你好运
 
-CWYL         Chat With You Later 
+BME = Based on my experience 根据我的经验
 
-CYA          Cover Your Ass 
+BFFL = Best friend for life 一辈子的好朋友
 
-CYL          See You Later 
+BION = Believe it or not 爱相信不相信
 
-DBEYR        Don't Believe Everything You Read 
+BHL8 = Be home late 会晚回家
 
-DD        Due Diligence 
+BM&Y = Between me and you 你我之间
 
-DDD          Direct Distance Dial 
+BBIAB = Be back in a bit 马上回来
 
-DETI         Don't Even Think It 
+BBIAM = Be back in a minute 马上回来
 
-DGT          Don't Go There 
+BBIAS = Be back in a second 马上回来
 
-DHYB         Don't Hold Your Breath 
+BDAY/B-DAY = Birthday 生日
 
-DILLIGAD        Do I Look Like I Give A Damn 
+## C
 
-DILLIGAS        Do I Look Like I Give A Sh** 
+CU = See you 再见
 
-DKDC         Don't Know Don't Care 
+CX = Cancelled 取消了
 
-DLTM         Don't Lie To Me 
+CB = Coffee break 休息时间
 
-DQYDJ        Don't Quit You're Day Job 
+CM = Call me 打给我
 
-DRIB         Don't Read If Busy 
+CT = Can’t talk 说不了话
 
-DYSTSOTT        Did You See The Size Of That Thing 
+CIO = Check it out 检查
 
-EG        Evil Grin 
+CSL = Can’t stop laughing 忍不住笑
 
-EOM          End Of Message 
+C4N = Ciao for now 拜拜，Ciao是意大利语的再见
 
-ESO          Equipment Smarter than Operator 
+CAM = Camera 相机
 
-F2F          Face-to-Face 
+CMB = Call me back 给我回电话
 
-FBKS         Failure Between Keyboard and Seat 
+COB = Close of business 停业
 
-FE        Fatal Error 
+COS = Because 因为
 
-FF&PN        Fresh Fields and Pastures New 
+CYE = Check your e-mail 查你的邮件
 
-FO        F*** Off 
+CR8 = Create 创造
 
-FOAF         Friend Of A Friend 
+CUA = See you around 再见
 
-FTASB        Faster Than A Speeding Bullet 
+CRZ = Crazy 疯了
 
-FTL          Faster Than Light 
+C-T = City 城市
 
-FTTB         For The Time Being 
+CWYL = Chat with you later 稍后聊
 
-FUBAR        F***ed Up Beyond All Recognition 
+CRBT = Crying really big tears 大哭
 
-FUBB         F***ed Up Beyond Belief 
+CMON = Come on 拜托！！
 
-FUD          (Spreading) Fear, Uncertainty, and 
+CQRT = Security 安全
 
-FWIW         For What It's Worth 
+CUIMD = See you in my dreams 梦里见
 
-FYA          For Your Amusement 
+CMIIW = Correct me if I’m wrong 如果我错了请纠正
 
-FYI          For Your Information 
+## D
 
-FYM          For Your Misinformation 
+DF = Dear friend 亲爱的朋友
 
-GAL          Get A Life 
+DL = Download 下载
 
-GG        Good Game or Gotta Go 
+DN = Down 往下，下面
 
-GIGO         Garbage In, Garbage Out 
+DGT = Don’t go there 别去那
 
-GIWIST       Gee, I Wish I'd Said That 
+DNR = Dinner 晚饭
 
-GL        Good Luck 
+DNT – Don’t 别……
 
-GLYASDI      God Loves You And So Do I 
+DGA = Don’t go anywhere 哪都别去
 
-GMTA         Great Minds Think Alike 
+DETI = Don’t even think it 不考虑
 
-GNBLFY       Got Nothing But Love For You 
+DHYB = Don’t hold your breath 别憋气
 
-GR&D         Grinning Running And Ducking 
+DIKU = Do I know you? 我认识你吗？
 
-GR8          Great 
+DLTM = Don’t lie to me 别对我说谎
 
-GRRRR        "Growling" 
+DBEYR = Don’t Believe Everything You Read
 
-GSOAS        Go Sit On A Snake 
+DKDC – Don’t know, don’t care 不知道，不管
 
-GTG          Got To Go 
+## E
 
-GTGB         Got To Go, Bye 
 
-GTGP         Got To Go Pee 
 
-GTH          Go To Hell 
+EOM = End of message 消息最后
 
-GTSY         Glad To See Ya 
+EVA = Ever 曾经，永远
 
-GYPO         Get Your Pants Off 
+EMA = E-mail address 邮箱地址
 
-HAGO         Have A Good One 
+EOL = End of lecture 讲座最后
 
-HAK          Hugs And Kisses 
+E123 = Easy as one, two, three 跟1，2，3一样容易
 
-HB        Hurry Back 
+EF4T = Effort 努力
 
-HD        Hold 
+ENUF = Enough 够了
 
-HHO1/2K      Ha Ha, Only Half Kidding 
+EZ/EZY = Easy 容易
 
-HHOK         Ha Ha, Only Kidding 
+E1/Every1 = Everyone 每个人
 
-HIOOC        Help! I'm Out of Coffee 
+## F
 
-HTH          Hope This (That) Helps 
+ 
 
-HUA          Heads Up Ace 
+FE = For example 例如
 
-HUYA         Head Up Your A** 
+FB = Facebook 脸书
 
-IAC          In Any Case 
+FC = Fingers crossed 手指交叉，意思是保佑
 
-IAE          In Any Event 
+FW = Forward 向前，转发（邮件）
 
-IANAC        I Am Not A Crook 
+FTL = Faster than light 比光还快
 
-IANAL        I Am Not A Lawyer 
+F2F = Face to face 面对面
 
-IBT          In Between Technology 
+F2P = Free to play 免费玩
 
-IBTD         I Beg To Differ 
+FAQ = Frequently asked questions 经常问到的问题
 
-IC        In Character 
+FBY = Fine by me 我可以、同意
 
-IDGAF        I Don't Give A F*** 
+FYI – For your information 根据你的信息
 
-IDGI         I Don't Get It 
+F2F/FTF = Face to face 面对面
 
-IDK          I Don't Know 
+## G
 
-IDKY         I Don't Know You 
+ 
 
-IDST         I Didn't Say That 
+GN = Good Night 晚安
 
-IDTS         I Don't Think So 
+GF = Girlfriend 女朋友
 
-IFAB         I Found A Bug 
+G9 = Genius 天才
 
-IFU          I F***ed Up 
+GA = Go ahead 进行
 
-IGGP         I Gotta Go Pee 
+GG = Gotta go 得走了
 
-IIIO         Intel Inside, Idiot Outside 
+GJ = Good job 干的不错
 
-IIMAD        If It Makes An(y) Difference 
+GL = Good luck 祝你好运
 
-IIRC         If I Remember Correctly 
+GB = Goodbye 拜拜，也是Great Britain缩写
 
-IIWM         If It Were Me 
+GUD = Good 不错、很好
 
-ILICISCOMK      I Laughed, I Cried, I Spat/Spilt 
+GAL = Get a life 做点有益的事
 
-ILY          I Love You 
+GAS = Got a second? 有时间吗？
 
-IMHO         In My Humble Opinion 
+GOI = Get over it 别想了
 
-IMNSHO       In My Not So Humble Opinion 
+GR8 = Great 不错、很好
 
-IMO          In My Opinion 
+GBU = God bless you 上次保佑你
 
-INMP         It's Not My Problem 
+GFI = Go for it 去做吧！
 
-INPO         In No Particular Order 
+GFN = Gone for now 现在不在
 
-IOH          I'm Outta Here 
+GBTW = Get back to work 回去上班
 
-IOW          In Other Words 
+GTSY = Great to see you 很高兴见到你
 
-IRL          In Real Life 
+GMTA = Great minds think alike 英雄所见略同
 
-ISS          I Said So 
+GRATZ = Congratulations 祝贺
 
-ITM          In The Money 
+GWHTLC = Glad we had this little chat 很高兴我们有了这番谈话
 
-IYKWIM       If You Know What I Mean 
+## H
 
-IYSS         If You Say So 
+ 
 
-J/C          Just Checking 
+H = Hug 抱抱
 
-J/K          Just Kidding! 
+HF = Have fun 玩的愉快
 
-J/W          Just Wondering 
+H8 = Hate 讨厌、恨、不喜欢
 
-JAFO         Just Another F***ing Onlooker 
+HV = Have 有……
 
-KFY          Kiss For You 
+HW = Homework 作业
 
-KISS         Keep It Simple Stupid 
+HAK = Hugs and kisses 亲亲抱抱
 
-KIT          Keep In Touch 
+HMU = Hit me up 跟我联系
 
-KMA          Kiss My Ass 
+HTH = Hope this (that) helps 希望这能有用
 
-KWIM         Know What I Mean 
+HBU = How about you? 你如何？你怎样？
 
-KYPO         Keep Your Pants On 
+HRU = How are you? 你好吗？
 
-L8R          Later 
+HOAS = Hold on a second 等一下
 
-LD        Long Distance 
+H2CUS = Hope to see you soon 希望不久能见到你
 
-LDTTWA       Let's Do The Time Warp Again 
+HAGN =Have a good night 祝今晚过得愉快
 
-LLTA         Lots And Lots Of Thunderous Applause 
+HAND = Have a nice day 祝今天过得愉快
 
-LMAO         Laughing My Ass Off 
+Howz = How is 怎么样
 
-LMK          Let Me Know 
+H-BDAY = Happy Birthday 生日快乐
 
-LOL          Laughing Out Loud -or- Lots of Luck (or Love) 
+## I
 
-LTIC         Laughing 'Til I Cry 
+ 
 
-LTNS         Long Time No See 
+I2 = I too = me too 我也是
 
-LYL          Love Ya Lots 
+IB = I’m back 我回来了
 
-LYLAS        Love You Like A Sister 
+IC = I see 哦……
 
-MHOTY        My Hat's Off To You 
+IK = I know 我知道
 
-MM        Market Maker 
+IDK = I don’tknow 我不知道
 
-MorF         Male or Female? 
+ISS = I Said So
 
-MOTD         Message Of The Day 
+IMO = In my opinion 我认为
 
-MOTSS        Members Of The Same Sex 
+ILU = I love you 我爱你
 
-MTFBWY       May The Force Be With You 
+IMS = I am sorry 对不起
 
-MWBRL        More Will Be Revealed Later 
+IDC = I don’t care 我不管
 
-MYOB         Mind Your Own Business 
+IA8 = I already ate 我吃过了
 
-NAK          Nursing At Keyboard 
+IAC = In any case 无论如何
 
-NAZ          Name, Address, Zip (also means Nasdaq) 
+IMU = I miss you 我想你
 
-NBD          No Big Deal 
+IOW = In other words 换句话说
 
-NBIF         No Basis In Fact 
+IRL = In real life 在真实生活中
 
-NFI          No F***ing Idea 
+ICAM = I couldn’t agree more 我非常同意
 
-NFW          No F***ing Way 
+IDBI = I don’t believe it 我真不敢相信
 
-NIFOC        Nude In Front Of The Computer 
+IDTS = I don’t think so 我不这么认为
 
-NM        Never Mind 
+IHNI = I have no idea 我不知道
 
-NMP          Not My Problem 
+IMSB = I am so bored 我特别无聊
 
-NOYB         None Of Your Business 
+ITYK = I thought you knew 我以为你知道的
 
-NP        No Problem 
+IUSS = If you say so 如果你非要这么说的话
 
-NQOCD        Not Quite Our Class Dear 
+IDGI = I don’t get it 我没懂
 
-NRG          Energy 
+IIWM = If it were me 如果是我的话
 
-NRN          No Reply Necessary 
+INMP = It’s not my problem 这不是我的错
 
-NYCFS        New York City Finger Saluet 
+IIMAD = If it makes an(y) difference 如果这有所不同的话
 
-OAUS         On An Unrelated Subject 
+IWALU = I will always love you 我会一直爱你
 
-OBTW         Oh By The Way 
+ILBL8 = I’ll be late 我会迟到
 
-OIC          Oh, I see 
+## J
 
-OMDB         Over My Dead Body 
+ 
 
-OMG          Oh My Gosh 
+JW = Just wondering 觉得
 
-OMIK         Open Mouth, Insert Keyboard 
+JK = Just kidding 只是逗你玩的
 
-ONNA         Oh No, Not Again 
+JAM = Just a minute 等一下
 
-OOC          Out Of Character 
+JDI = Just do it 勇敢去做
 
-OOTB         Out Of The Box -or- Out Of The Blue 
+JFF = Just for fun 只是想玩玩
 
-OT        Off Topic 
+JIC = Just in case 以防万一
 
-OTOH         On the Other Hand 
+JLMK = Just let me know 到时通知我一下
 
-OWTTE        Or Words To That Effect 
+JTLYK = Just to let you know 只是想通知你一下
 
-OZ        stands for "Australia" 
+JAC/ JAS = Just a second 等一下下
 
-PEBCAK       Problem Exists Between Chair And Keyboard 
+## K
 
-PIMP         Peeing In My Pants 
+ 
 
-PITA         Pain In The Ass 
+KK = Okay, okay 好的，好的
 
-PLS          Please 
+KK = Knock, knock 敲门声
 
-PMFJI        Pardon Me For Jumping In 
+KB = Keyboard 键盘
 
-PO        Piss Off 
+KIT = Keep in touch 保持联系
 
-POV          Point of View 
+KNOW = Meaning ‘knowledge’ 知识
 
-RBTL         Read Between The Lines 
+## L
 
-RL        Real Life 
+ 
 
-RLF          Real Life Friend 
+LMK = Let Me Know 告诉我
 
-RMLB         Read My Lips Baby 
+LTNS = Long time no see 好久不见
 
-RMMM         Read My Mail Man! 
+L2K = Love to come 很想来
 
-RN        Right Now! 
+L8R = Later 过会儿，一会儿
 
-ROTFL        Rolling On The Floor Laughing 
+LBAY = Laughing back at you 对你笑
 
-ROTFLMAO        Rolling On The Floor Laughing My Ass Off 
+LD = Long distance 远距离
 
-ROTM         Right On The Money 
+LHO = Laughing head off 大笑
 
-RSN          Real Soon Now 
+LOL = Laughing out loud 大声笑，非常常见
 
-RTFM         Read The F***ing Manual 
+LOLO = Lots of love 很多爱
 
-RTK          Return To Keyboard 
+## M
 
-RTM          Read The Manual 
+ 
 
-RU        Are You? 
+M8 = Mate 兄弟，哥们（英国经常用）
 
-SBTA         Sorry, Being Thick Again 
+MLM = Meaning give the middle finger 竖中指的意思
 
-SH Sh**      Happens 
+MNC = Mother nature calls 意思就是要上厕所
 
-SITD         Still In The Dark 
+MOO = My own opinion 我自身认为
 
-SNAFU        Situation Normal, All F***ed Up 
+MSG = Message 信息
 
-SOL          Sh** Out of Luck 
+MTF = More to follow 还有更多
 
-SorG         Straight or Gay? 
+MorF = Male or Female？男还是女？
 
-SSDD         Same Sh** Different Day 
+MGMT = Management 管理
 
-STFU        Shut The F*** Up 
+MKAY = Meaning ‘Mmm, okay’ 嗯，好的
 
-STM         Spank The Monkey 
+MYOB = Mind your own business 先管好你自己的事儿
 
-STYS        Speak To You Soon 
+## N
 
-SUYF        Shut Up You Fool 
+ 
 
-SWAG        Scientific Wild Ass Guess 
+N1 = Nice one 不错
 
-SWAK        Sent (or Sealed) With A Kiss 
+NM = Never mind 没事
 
-SWDYT       So What Do You Think? 
+NP = No problem 没问题
 
-TAH        Take A Hike 
+NE = Any 任何
 
-TANSTAAFL     There Ain't No Such Thing As A Free Lunch 
+NW = No way 不可能吧
 
-TARFU      Things Are Really F***ed Up 
+NN = Nite 晚安
 
-TDTM       Talk Dirty To Me 
+NBD = No big deal 没那么严重
 
-TEOTWAWKI     The End Of The World As We Know It 
+NE1 = Anyone 任何人
 
-TFN        Thanks For Nothin' 
-THX or TX or 
+NFS = Not for sale 不出售
 
-THKS  Thanks 
+NVR = Never 不、绝不
 
-TIA         Thanks In Advance 
+NRG = Energy 能量
 
-TIAIL       Think I Am In Love 
+NMP = Not My Problem 不是我的问题
 
-TIC         Tongue In Cheek 
+NOYB = None of your business 跟你没关系
 
-TLA         Three Letter Acronym 
+NOWL = Meaning ‘knowledge’ 知识
 
-TLGO        The List Goes On 
+## O
 
-TM          Trust Me 
+ 
 
-TMI          Too Much Information 
+OT = Off topic 跑题
 
-TMTOWTDI       There's More Than One Way To Do It 
+OOT = Out of stock 没有现货
 
-TPTB         The Powers That Be 
+O4Y = Only for you 只为了你
 
-TSR          Totally Stuck in RAM 
+OMG = Oh my god 我的天啊！
 
-TTFN         Ta Ta For Now 
+OMW = On my way 在路上
 
-TTT          That's The Ticket -or- To The Top 
+ONL = Online 在线上
 
-TTYL         Talk To You Later 
+OTP = On the phone 在打电话
 
-TWHAB        This Won't Hurt A Bit 
+OTT = Over the top 过分了啊！
 
-TY           Thank You 
+OTW = Off to work 去上班了
 
-TYVM         Thank You Very Much 
+OVA = Over 结束
 
-unPC       unPolitically Correct 
+OMDB = Over my dead body 除非我死了
 
-URYY4M     You Are Too Wise For Me 
+OTRH = On the other hand 另一方面
 
-VFM        Value For Money 
+## P
 
-WAG        Wild Ass Guess 
+ 
 
-WAI        What An Idiot 
+PS = Photoshop 修图
 
-WB      Welcome Back 
+PM = Personal message 私信
 
-WCA        Who Cares Anyway 
+PZ = Peace 和平、安宁
 
-WDYS       What Did You Say? 
+PIC = Picture 图片
 
-WDYT       What Do You Think? 
+PIF = Paid in full 全款
 
-WE      Whatever 
+Pro = Professional 专业的
 
-WEG        Wicked Evil Grin 
+PCM = Please call me 请打给我
 
-WG      Wicked Grin 
+POV = Point of view 观点
 
-WGAFF      Who Gives A Flying F*** 
+PRT = Party 聚会
 
-WIIFM      What's In It For Me? 
+PXT = Please explain that 请解释你什么意思
 
-WIT        Wordsmith In Training 
+PZA = Pizza 比萨
 
-WITFITS    What in the F*** is this Sh** 
+PTMM = Please tell me more 请告诉我多一点
 
-WOG        Wise Old Guy 
+PLS/PLZ = Please 请
 
-WRT        With Regard To 
+PROLLY = Probably 可能
 
-WTF        What The F*** 
+## Q
 
-WTG        Way To Go! 
+ 
 
-WTSDS      Where The Sun Don't Shine 
+QIK = Quick 快
 
-WYP     What's Your Problem? 
+QQ = Meaning ‘crying eyes’ 哭
 
-WYRN    What's Your Real Name? 
+QQ = Quick question 快问快答
 
-WYS     Whatever You Say 
+QOTD = Quote of the day 今日引用
 
-WYSIWYG    What You See Is What You Get 
+## R
 
-WYT     Whatever You Think 
+ 
 
-YA      Yet Another 
+R8 = RATE 比率、价格
 
-YA      yaya Yet Another Ya-Ya (as in yo-yo) 
+RN = Right now 立刻
 
-YAFIYGI    You Asked For It You Got It 
+R&D = Research & Development 研发
 
-YDKM    You Don't Know Me 
+RUS = Are you serious? 你是认真的吗？
 
-YGBK    You Gotta Be Kiddin' 
+ROFL = Roll on floor laughing 笑翻天了
 
-YMMV    Your Mileage May Vary 
+## S
 
-YNK     You Never Know 
+ 
 
-YOYO    You're On Your Own 
+SH^ = Shut up 闭嘴
 
-YR      Yeah Right 
+SQ = Square 正方形
 
-YSYD    Yeah, Sure You Do 
+SB = Should be 应该
 
-YTTT    You Telling The Truth? 
+SB = Smiling back 回笑
 
-YYSSW      Yeah Yeah Sure Sure Whatever 
+SC = Stay cool 保持酷
 
-Lol = laughing out loud / lots of laughs 大笑
+SB = Stand by 候场
 
-Lmao = laughing my ass off 笑掉屁股
+S2U = Same to you 对你也一样
 
-WTF = what the f u c k 等同于“吊”
+Sec = Second 一秒钟
 
-WTH = what the hell 比较文雅的 WTF ，常作为疑问“怎么会这样？”
+S2S = Sorry to say 很遗憾的说……
 
-FTW = for the win 相当于“必胜”
+SIT = Stay in touch 保持联系
 
-Omg = oh my God 相当于“天呀！”
+SM1 = Someone 某人
 
-Omfg = oh my f u c k （ing） God 语气较重的“天呀！”
+SK8 = Skate 溜冰
 
-Brb = be right back 马上回来（意思要走开一下）
+SUL = See you later 一会见
 
-Brt = be right there 马上到
+SOL = Sooner or later 迟早、早晚
 
-Afk = after keyboard/away from keyboard(感谢海外版斑竹Doublecheese更正) 本人不在/离开一下
+STR8 = Straight 直接的
 
-Idk = I don't know 不知道
+SLAP = Sounds like a plan 听起来像个计划
 
-Ic = I see 原来这样/哦/我明白了
+SPST = Same place, same time 同一地点同一时间
 
-w8t = wait 等等
+Soz/sry = Sorry 抱歉
 
-wtb/s = want to buy/sell 想要买/卖
+## T
 
-Lfm = look(ing) for more / looking for member 找更多的（人） 
+ 
 
-nn = night night 晚安 wb = welcome back欢迎回来
+TM = Trust Me 相信我
 
-gg/gl/hf = good game / good luck / have fun 祝发挥好（如果事件已经结束则为：发挥不错哦）/祝好运/玩得开心 
+TC = Take care 保重
 
-gj/wd = good job / well done 相当于：做得好！
+TAM = Tomorrow A.M. 明天上午
 
-BTW = By the way 顺便问问/顺便一提
+TBC = To be continued 未完待续
 
-P.S = postscript 再者, 又及; 附言
+TIA = Thanks in advance 提前感谢
 
-CU/cya = see you / see you all 再见/大家再见
+TMI = Too much information 太多信息
 
-tks/tq/ty/tyvm = thanks/thank you/thank you/thank you 
-very much 谢谢/谢谢你/谢谢你/非常感谢你
+TBH = To be honest 说实话……
 
-asap = as soon as possible 尽快，尽可能快
+TYT = Take your time 不用着急慢慢来
 
-ttyl = talk to you later 一会儿在谈，迟点跟你说
+TBL = Text back later 一会再发（短信）
 
-yw = you'r welcome/you are welcome 不客气，不用谢
+THX = Thanks 谢谢
 
-IMO=IN MY OPINION 我认为，我觉得
+TTG = Time to go 该走了
 
-NP=NO PROBLEM 没问题，没关系
+TPM = Tomorrow P.M. 明天下午
 
-atm = at the moment 目前，现在，现在正在（干某事）
+TTYL = Talk to you later 稍后跟你说
 
-rofl = roll on floor laughting 笑到在地上打滚  希望对你有帮助 如有疑问请在线交谈
+TTLY = Totally 简直、完全的
+
+## U
+
+ 
+
+U = You 你
+
+UR = You are 你是……
+
+USU = Usually 通常情况下……、经常……
+
+UNCRTN = Uncertain 不确定
+
+URSKTM = You are so kind to me 你对我真好
+
+URW/UW = You are welcome 不客气
+
+UN4TUN8 = Unfortunate 很不幸的
+
+UNBLEFBLE = Unbelievable 令人不可相信
+
+## V
+
+ 
+
+VM = Voice mail 语音信箱
+
+VRY = Very 非常
+
+VBS = Very big smile 非常大的一个笑容
+
+VFM = Value for money 价格很划得来
+
+VGC = Very good condition 状态良好
+
+## W
+
+ 
+
+W/ = with 与......
+
+WB = Welcome back 欢迎回来
+
+WX = Weather 天气
+
+W8 = Wait 等
+
+W3 = www. 网址的前端
+
+WC = Who cares? 谁管、在乎啊？
+
+WE = Whatever 随便、无所谓
+
+WK = Week 星期
+
+WRK = Work 工作
+
+WBU = What about you? 你呢？
+
+WAM = Wait a minute 等一会儿
+
+WAS = Wait a second 等一会儿
+
+WAM = Wait a minute 等一会儿
+
+Wrm = Warm温暖
+
+WYW = Wish you well 顺心如意
+
+WRU = Where are you 你在哪儿
+
+W/E = Weekend 周末
+
+Wan2 = Want to 想要
+
+WRUD = What are you doing? 你干吗呢？
+
+WAYF =– Where are you from? 你哪里来的？
+
+WYWH = Wish you were here 希望你也在这里
+
+WAN2TLK – Want to talk 想聊天
+
+Wot/Wut = What 什么
+
+## X
+
+ 
+
+XU = Kiss you 亲吻
+
+XME = Excuse me 对不起麻烦一下、对不起
+
+XLNT = Excellent 很好
+
+XOXO = Hugs and Kisses 亲亲抱抱
+
+## Y
+
+ 
+
+Y = Why 为什么？
+
+Ya = You 你 
+
+YR = Yeah, Right 对
+
+YF = Wife 妻子
+
+YL = Young lady 年轻女孩
+
+YR = Your 你的
+
+YW = You are welcome 不客气
+
+Y2K = You are too kind 你人真好
+
+YKW = You know what 你知道吗？
+
+YIU = Yes, I understand 是的我明白
+
+YNK = You never know 你怎么会知道
+
+YTB = You’re the best 你是最棒的
+
+YDKM = You don’t know me 你不知道我
+
+Yep/Yup = Yes 是的
+
+## Z
+
+ 
+
+Z% = Zoo 动物园
+
+ZZZZ = Sleeping or sleepy 困
+
+## *
+
+符号和数字
+
+! = I have a comment 我有话要说
+
+*$ = Starbucks 星巴克
+
+**// = Wink wink, nudge nudge 眨眼
+
+8t = it 它
+
+121 = One to one 一对一
+
+143 = I love you 我爱你
+
+182 = I hate you 我讨厌你
+
+1dfaul = Wonderful 精彩的
+
+2B or not 2B = To Be or Not To Be 生存还是毁灭
+
+2day = Today 今天
+
+2nite = Tonight 今晚
+
+2QT = Too Cute 太可爱
+
+2U2 = To you too 也给你
+
+24/7 = 24 hours, as in all time 7*24小时
+
+4e = Forever 永远
+
+4NR = Foreigner 外国人

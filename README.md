@@ -48,13 +48,13 @@
 ### 第6天
 * [常用英语缩写](docs/30day/day6_常用英语缩写.md)
 ### 第7天
-* [快速起号技巧](docs/30day/day7_快速起号技巧.md)
+* [视频高阶处理技巧](docs/30day/day7_视频高阶处理技巧.md)
 ### 第8天
 * [上岸心得体会](docs/30day/day8_上岸心得体会1.md)
 ### 第9天
 * [矩阵号打造](docs/30day/day9_矩阵号打造.md)
 ### 第10天
-* [矩阵号打造](media/pictures/alogrithm/day10_抖音算法.md)
+* [抖音算法](media/pictures/alogrithm/day10_抖音算法.md)
 ### 第11天
 
 ### 第12天
