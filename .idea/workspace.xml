@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31a4b78e-3ace-455e-a09b-80eea9af9deb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/30day/day6_常用英语缩写.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/30day/day7_快速起号技巧.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/30day/day8_上岸心得体会1.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/30day/day9_矩阵号打造.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/pictures/alogrithm/alogrithm.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/pictures/alogrithm/day10_抖音算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/30day/day7_视频高阶处理技巧.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/30day/day_4注册美区.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/30day/day7_快速起号技巧.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +66,7 @@
       <workItem from="1591253467603" duration="174000" />
       <workItem from="1591255658677" duration="786000" />
       <workItem from="1591420811642" duration="2100000" />
-      <workItem from="1591775297284" duration="1920000" />
+      <workItem from="1591775297284" duration="3994000" />
     </task>
     <task id="LOCAL-00001" summary="更改封面">
       <created>1590990345883</created>
@@ -312,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591422262828</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="day 10">
+      <created>1591777611646</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1591777611647</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,7 +332,8 @@
     <MESSAGE value="day 3" />
     <MESSAGE value="day 5" />
     <MESSAGE value="day 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 4" />
+    <MESSAGE value="day 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="356" y="143" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591096691356">
@@ -342,10 +344,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590992983336" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1591422261820">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1591777610351">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591422261820" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591777610351" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1590990212229">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -354,17 +356,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="57" key="SettingsEditor/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590990190910" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591422272657">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591777624016">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591422272657" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591777624016" />
     <state x="321" y="78" width="773" height="590" key="find.popup" timestamp="1591095080431">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="78" width="773" height="590" key="find.popup/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591095080431" />
-    <state x="330" y="132" key="git4idea.merge.GitPullDialog" timestamp="1591422266452">
+    <state x="330" y="132" key="git4idea.merge.GitPullDialog" timestamp="1591777616286">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591422266452" />
+    <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591777616286" />
   </component>
 </project>
