@@ -56,7 +56,7 @@
 ### 第10天
 * [抖音算法](media/pictures/alogrithm/day10_抖音算法.md)
 ### 第11天
-
+* [4天涨粉两万心得体会](docs/30day/day11_4天涨粉2万.md)
 ### 第12天
 
 
