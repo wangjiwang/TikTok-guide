@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31a4b78e-3ace-455e-a09b-80eea9af9deb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/docs/30day/day12_抖音连爆技术.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,9 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\TikTok-guide\docs\30day" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\TikTok-guide\media\pictures\alogrithm" />
       <recent name="F:\TikTok-guide\media\pictures\apple" />
@@ -65,7 +68,7 @@
       <workItem from="1591253467603" duration="174000" />
       <workItem from="1591255658677" duration="786000" />
       <workItem from="1591420811642" duration="2100000" />
-      <workItem from="1591775297284" duration="7529000" />
+      <workItem from="1591775297284" duration="10074000" />
     </task>
     <task id="LOCAL-00001" summary="更改封面">
       <created>1590990345883</created>
@@ -347,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591838942823</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="导航栏">
+      <created>1591839091761</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1591839091761</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -382,10 +392,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590992983336" />
-    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1591838941954">
+    <state x="250" y="0" key="CommitChangelistDialog2" timestamp="1591839090943">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591838941954" />
+    <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591839090943" />
     <state x="250" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1591834198001" />
     <state x="421" y="82" key="FileChooserDialogImpl" timestamp="1590990212229">
       <screen x="0" y="0" width="1280" height="680" />
@@ -395,19 +405,19 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="57" key="SettingsEditor/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1590990190910" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591838952149">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1591839103523">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591838952149" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591839103523" />
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1591834213250" />
     <state x="321" y="78" width="773" height="590" key="find.popup" timestamp="1591838879911">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="78" width="773" height="590" key="find.popup/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591838879911" />
-    <state x="330" y="132" key="git4idea.merge.GitPullDialog" timestamp="1591838946695">
+    <state x="330" y="132" key="git4idea.merge.GitPullDialog" timestamp="1591839096768">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591838946695" />
+    <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680/1920.0.1536.824@0.0.1280.680" timestamp="1591839096768" />
     <state x="330" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1591834205946" />
   </component>
 </project>
