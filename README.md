@@ -59,7 +59,7 @@
 * [4天涨粉两万心得体会](docs/30day/day11_4天涨粉2万.md)
 ### 第12天
 * [抖音连爆炸技术](docs/30day/day12_抖音连爆技术.md)
-
+* [申述邮件一则](media/pictures/alogrithm/day12_申述模板.md)
 ## 说明
 
 ### 关于转载
