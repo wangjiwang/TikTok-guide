@@ -262,6 +262,8 @@ FYI – For your information 根据你的信息
 
 F2F/FTF = Face to face 面对面
 
+FYP = For your page 为您的页面，用来吸引流量
+
 ## G
 
  
